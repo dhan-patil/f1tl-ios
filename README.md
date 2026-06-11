@@ -77,21 +77,6 @@ bash git clone https://github.com/dhan-patil/f1tl-ios.git
 
 The application should build and run successfully.
 
----
 
-## Future Improvements
 
-- Driver and constructor comparison tools  
-- Enhanced historical analytics  
-- Improved race insights and statistics  
-- Better visualization of standings progression  
-- UI and performance improvements  
 
----
-
-## Developer
-
-Dhan Patil  
-
-LinkedIn: https://www.linkedin.com/in/dhanpatil/  
-GitHub: https://github.com/dhan-patil
